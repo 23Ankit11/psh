@@ -1,27 +1,27 @@
-<center># CS 341
+# CS 341
 
 # OS Assignment
 
-# Shell Implementation</center>
+# Shell Implementation
 
-**Group 26
-Ankit Kumar Singh - 150101086
-Sudhanshu Ranjan - 150101076
-Shashank Huddedar - 150101085**
+**Group 26**
+**Ankit Kumar Singh - 150101086**
+**Sudhanshu Ranjan - 150101076**
+**Shashank Huddedar - 150101085**
 
 
 **The Project consists of following files:**
 
 1. splitter.c
-splitter.h
+   splitter.h
     Files consists of function defination and declaration of str_split(char *) to split the
 given command into program name and arguments.
 2. history.c
-history.h
+   history.h
     Files consists of functions defination and declaration of history(int n) that prints the
 last n commands and issue(int n) that runs the nth command.
 3. helper.c
-helper.h
+   helper.h
     Files consists of following functions:
 
 ```
